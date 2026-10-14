@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme.Enigma has no action bar: the panel draws its own header so the
+         brass-on-dark look runs edge to edge. -->
+    <style name="Theme.Enigma" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/panel_bg</item>
+        <item name="android:statusBarColor">@color/panel_dark</item>
+        <item name="android:navigationBarColor">@color/panel_dark</item>
+    </style>
+</resources>

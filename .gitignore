@@ -1,0 +1,24 @@
+# Android / Gradle build output.
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Local machine configuration - never commit, it holds SDK paths.
+local.properties
+
+# IDE files.
+.idea/
+*.iml
+.DS_Store
+
+# Keystores: signing material must never be committed.
+*.jks
+*.keystore
+
+# Gradle caches.
+.gradle-local/

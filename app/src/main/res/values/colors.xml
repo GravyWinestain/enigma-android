@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The wehrmacht field-machine palette: a weathered dark olive case, worn
+         brass fittings, and a warm cream for engraved text. Kept deliberately
+         desaturated so the lamp glow and the brass are the only bright things
+         on screen, the way a real panel reads in a dim signals room. -->
+    <color name="panel_bg">#1E1B14</color>
+    <color name="panel_dark">#14120D</color>
+    <color name="case_metal">#3A352A</color>
+    <color name="brass">#C6963E</color>
+    <color name="brass_dark">#96702D</color>
+    <color name="cream">#E8DFC8</color>
+    <color name="lamp_on">#FFD27A</color>
+    <color name="red">#A83232</color>
+</resources>
